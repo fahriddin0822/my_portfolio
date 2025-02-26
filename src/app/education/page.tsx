@@ -31,7 +31,7 @@ const educationPage = () => {
             className="relative w-3/4 border-l-4 border-l-[#3c3c3c] p-4 gap-3 education_point "
           >
             <div className="text-2xl font-rubik max-sm:text-xl">
-              {`Full-Stack web development, <br /> Najot Ta'lim LC
+              {`Full-Stack web development, Najot Ta'lim LC
               Tashkent`}
             </div>
             <p className=" font-poppins text-base w-full text-primary  max-sm:text-xs">
